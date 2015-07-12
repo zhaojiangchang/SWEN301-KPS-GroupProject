@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<businessEvents>
+  <event type="New Route">
+    <route>
+      <origin>Auckland</origin>
+      <destination>Wellington</destination>
+      <transportType>Standard</transportType>
+      <firmName>Transport firm A</firmName>
+      <costPGramForTransport>20.0</costPGramForTransport>
+      <costPVolumeForTransport>25.0</costPVolumeForTransport>
+      <costPGramToCustomer>20.0</costPGramToCustomer>
+      <costPVolumeToCustomer>25.0</costPVolumeToCustomer>
+      <departureDays>
+        <day>Monday</day>
+      </departureDays>
+      <departureFrequency>2.0</departureFrequency>
+    </route>
+    <clerk>Sammy</clerk>
+    <date>2015/03/03 10:53</date>
+  </event>
+</businessEvents>

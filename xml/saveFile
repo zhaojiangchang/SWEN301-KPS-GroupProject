@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<businessEvents>
+  <event type="New Route">
+    <route>
+      <origin>Auckland</origin>
+      <destination>Wellington</destination>
+      <transportType>Standard</transportType>
+      <firmName>Transport firm A</firmName>
+      <costPGramForTransport>20.0</costPGramForTransport>
+      <costPVolumeForTransport>25.0</costPVolumeForTransport>
+      <costPGramToCustomer>20.0</costPGramToCustomer>
+      <costPVolumeToCustomer>25.0</costPVolumeToCustomer>
+      <departureDays>
+        <day>Monday</day>
+      </departureDays>
+      <departureFrequency>2.0</departureFrequency>
+    </route>
+    <clerk>Sammy</clerk>
+    <date>2015/03/03 10:53:00</date>
+  </event>
+  <event type="New Route">
+    <route>
+      <origin>Auckland</origin>
+      <destination>Taupo</destination>
+      <transportType>Standard</transportType>
+      <firmName>NZPost</firmName>
+      <costPGramForTransport>1.0</costPGramForTransport>
+      <costPVolumeForTransport>3.0</costPVolumeForTransport>
+      <costPGramToCustomer>2.0</costPGramToCustomer>
+      <costPVolumeToCustomer>6.0</costPVolumeToCustomer>
+      <departureDays>
+        <day>Monday</day>
+      </departureDays>
+      <departureFrequency>3.0</departureFrequency>
+    </route>
+    <clerk>Cameron Probert</clerk>
+    <date>2015/06/05 23:59:50</date>
+  </event>
+  <event type="New Route">
+    <route>
+      <origin>Auckland</origin>
+      <destination>Christchurch</destination>
+      <transportType>Air</transportType>
+      <firmName>NZPost</firmName>
+      <costPGramForTransport>3.0</costPGramForTransport>
+      <costPVolumeForTransport>6.0</costPVolumeForTransport>
+      <costPGramToCustomer>6.0</costPGramToCustomer>
+      <costPVolumeToCustomer>6.0</costPVolumeToCustomer>
+      <departureDays>
+        <day>Tuesday</day>
+      </departureDays>
+      <departureFrequency>3.0</departureFrequency>
+    </route>
+    <clerk>Cameron Probert</clerk>
+    <date>2015/06/06 00:00:22</date>
+  </event>
+  <event type="New Route">
+    <route>
+      <origin>Auckland</origin>
+      <destination>Dunedin</destination>
+      <transportType>Air</transportType>
+      <firmName>NZPost</firmName>
+      <costPGramForTransport>4.0</costPGramForTransport>
+      <costPVolumeForTransport>6.0</costPVolumeForTransport>
+      <costPGramToCustomer>1.0</costPGramToCustomer>
+      <costPVolumeToCustomer>6.0</costPVolumeToCustomer>
+      <departureDays>
+        <day>Wednesday</day>
+      </departureDays>
+      <departureFrequency>3.0</departureFrequency>
+    </route>
+    <clerk>Cameron Probert</clerk>
+    <date>2015/06/06 00:00:46</date>
+  </event>
+  <event type="New Route">
+    <route>
+      <origin>Taupo</origin>
+      <destination>Hamilton</destination>
+      <transportType>Standard</transportType>
+      <firmName>Transport firm A</firmName>
+      <costPGramForTransport>4.0</costPGramForTransport>
+      <costPVolumeForTransport>2.0</costPVolumeForTransport>
+      <costPGramToCustomer>5.0</costPGramToCustomer>
+      <costPVolumeToCustomer>1.0</costPVolumeToCustomer>
+      <departureDays>
+        <day>Wednesday</day>
+      </departureDays>
+      <departureFrequency>3.0</departureFrequency>
+    </route>
+    <clerk>Cameron Probert</clerk>
+    <date>2015/06/06 00:01:22</date>
+  </event>
+  <event type="New Route">
+    <route>
+      <origin>Hamilton</origin>
+      <destination>Wellington</destination>
+      <transportType>Standard</transportType>
+      <firmName>Transport firm A</firmName>
+      <costPGramForTransport>4.0</costPGramForTransport>
+      <costPVolumeForTransport>4.0</costPVolumeForTransport>
+      <costPGramToCustomer>5.0</costPGramToCustomer>
+      <costPVolumeToCustomer>5.0</costPVolumeToCustomer>
+      <departureDays>
+        <day>Thursday</day>
+      </departureDays>
+      <departureFrequency>2.0</departureFrequency>
+    </route>
+    <clerk>Cameron Probert</clerk>
+    <date>2015/06/06 00:02:04</date>
+  </event>
+  <event type="New Route">
+    <route>
+      <origin>Wellington</origin>
+      <destination>Christchurch</destination>
+      <transportType>Standard</transportType>
+      <firmName>NZPost</firmName>
+      <costPGramForTransport>10.0</costPGramForTransport>
+      <costPVolumeForTransport>12.0</costPVolumeForTransport>
+      <costPGramToCustomer>15.0</costPGramToCustomer>
+      <costPVolumeToCustomer>11.0</costPVolumeToCustomer>
+      <departureDays>
+        <day>Friday</day>
+      </departureDays>
+      <departureFrequency>2.0</departureFrequency>
+    </route>
+    <clerk>Cameron Probert</clerk>
+    <date>2015/06/06 00:02:50</date>
+  </event>
+  <event type="New Route">
+    <route>
+      <origin>Christchurch</origin>
+      <destination>Dunedin</destination>
+      <transportType>Standard</transportType>
+      <firmName>NZPost</firmName>
+      <costPGramForTransport>10.0</costPGramForTransport>
+      <costPVolumeForTransport>12.0</costPVolumeForTransport>
+      <costPGramToCustomer>15.0</costPGramToCustomer>
+      <costPVolumeToCustomer>11.0</costPVolumeToCustomer>
+      <departureDays>
+        <day>Friday</day>
+      </departureDays>
+      <departureFrequency>2.0</departureFrequency>
+    </route>
+    <clerk>Cameron Probert</clerk>
+    <date>2015/06/06 00:03:10</date>
+  </event>
+  <event type="New Route">
+    <route>
+      <origin>Dunedin</origin>
+      <destination>Auckland</destination>
+      <transportType>Air</transportType>
+      <firmName>NZPost</firmName>
+      <costPGramForTransport>20.0</costPGramForTransport>
+      <costPVolumeForTransport>2.0</costPVolumeForTransport>
+      <costPGramToCustomer>21.0</costPGramToCustomer>
+      <costPVolumeToCustomer>1.0</costPVolumeToCustomer>
+      <departureDays>
+        <day>Saturday</day>
+      </departureDays>
+      <departureFrequency>2.0</departureFrequency>
+    </route>
+    <clerk>Cameron Probert</clerk>
+    <date>2015/06/06 00:03:47</date>
+  </event>
+</businessEvents>
